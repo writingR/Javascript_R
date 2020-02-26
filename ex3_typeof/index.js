@@ -1,5 +1,5 @@
 // ES5로 작성
-// 이후 ES6로 리팩토링
+// 이후 ES6로 리팩토링예정
 
 var num = 3356;
 var str = 'hello';
